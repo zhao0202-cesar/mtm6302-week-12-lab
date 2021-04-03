@@ -99,7 +99,6 @@ const Book = {
                 <h5 class="card-title">{{ book.title_sort }}</h5>
                 <p class="card-text">{{ book.description }}</p>
             </div>
-
         </section>
     `
 }
